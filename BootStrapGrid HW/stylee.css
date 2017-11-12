@@ -1,0 +1,9 @@
+html body {  
+  background: -webkit-linear-gradient(left top, red, green); /* For Safari 5.1 to 6.0 */
+ }
+ h1 {
+ 	font-family: Chalkduster, fantasy;
+ 	color: blue;
+ 	font-style: bold;
+ 	text-align: center;
+ }
